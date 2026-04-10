@@ -45,7 +45,7 @@ Add screenshots here (optional but recommended)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/SumitKumarsk001/Interview-Ai-
+git clone https://github.com/SumitKumarsk001/Interview-Prep
 cd Interview-Ai-
 
 ### 2  Setup Backend
